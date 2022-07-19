@@ -1,5 +1,5 @@
 # GunGame
-Fair warning it doesn't really work :p
+Old Repository, WIP.
 <h2>Controls:</h2> 
 
 <ul> <li>WASD to move around
